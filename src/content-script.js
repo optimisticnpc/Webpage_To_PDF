@@ -5,8 +5,6 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     console.log('Message received: convertToPdf');
     const content = extractContent();
     createPdf(content);
-      // const text = document.body.innerText;
-      // createPdf(text);
     }
   });
 
