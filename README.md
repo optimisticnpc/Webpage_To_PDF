@@ -1,8 +1,8 @@
 ﻿# Webpage_To_PDF
 (first ever personal project)
 
-I have no idea how any of this works. I have never used javascript before.
-Everything was written by GPT-4 so I am not responsible for the bad code
+**I have no idea how any of this works. I have never used javascript before.
+Almost everything was written by GPT-4 so I am not responsible for the bad code (this is a joke, I am responsible if this blows up your computer).**
 
 
 Known Bugs:
